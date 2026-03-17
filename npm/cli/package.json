@@ -1,0 +1,27 @@
+{
+  "name": "@branchmore/cli",
+  "version": "0.0.0",
+  "description": "AI coding assistant usage collector for Opsmore",
+  "bin": {
+    "bmor": "bin/bmor.js"
+  },
+  "optionalDependencies": {
+    "@branchmore/cli-darwin-arm64": "0.0.0",
+    "@branchmore/cli-darwin-x64": "0.0.0",
+    "@branchmore/cli-linux-x64": "0.0.0",
+    "@branchmore/cli-linux-arm64": "0.0.0",
+    "@branchmore/cli-win32-x64": "0.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "bin/"
+  ],
+  "homepage": "https://github.com/Branchmore/cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Branchmore/cli.git"
+  },
+  "license": "MIT"
+}

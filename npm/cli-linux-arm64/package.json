@@ -1,0 +1,14 @@
+{
+  "name": "@branchmore/cli-linux-arm64",
+  "version": "0.0.0",
+  "description": "Linux arm64 binary for @branchmore/cli",
+  "os": ["linux"],
+  "cpu": ["arm64"],
+  "files": ["bin/"],
+  "homepage": "https://github.com/Branchmore/cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Branchmore/cli.git"
+  },
+  "license": "MIT"
+}

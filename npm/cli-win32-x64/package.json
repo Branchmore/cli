@@ -1,0 +1,14 @@
+{
+  "name": "@branchmore/cli-win32-x64",
+  "version": "0.0.0",
+  "description": "Windows x64 binary for @branchmore/cli",
+  "os": ["win32"],
+  "cpu": ["x64"],
+  "files": ["bin/"],
+  "homepage": "https://github.com/Branchmore/cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Branchmore/cli.git"
+  },
+  "license": "MIT"
+}
