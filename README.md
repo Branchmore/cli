@@ -25,6 +25,20 @@ brew tap Branchmore/homebrew-tap
 brew install bmor
 ```
 
+#### MacOS: troubleshooting `"bmor" Not Opened`
+
+If MacOS shows a popup with that title and text like `Apple could not verify "bmor" is free of malware that may harm your Mac or compromise your privacy"`, you can follow [these instructions](https://support.apple.com/en-sa/guide/mac-help/mchleab3a043/mac) on Apple's Mac User Guide:
+
+  1. On your Mac, choose Apple menu  > System Settings, then click Privacy & Security in the sidebar. (You may need to scroll down.)
+
+  2. Go to Security, then click Open.
+
+  3. Click Open Anyway.
+
+      3.1. This button is available for about an hour after you try to open the app.
+
+  4. Enter your login password, then click OK.
+
 ### npm
 
 Requires Node.js 14 or later. Installs the correct platform binary automatically.
