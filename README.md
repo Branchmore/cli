@@ -39,7 +39,7 @@ If MacOS shows a popup with that title and text like `Apple could not verify "bm
 
   4. Enter your login password, then click OK.
 
-This warning is expected, because we are a small and early software publisher. We plan to set up our Apple Developer processes as our software matures.
+This warning is expected, because Branchmore is early in our software development lifecycle. We plan to invest more in our Apple Developer processes as our software matures.
 
 ### npm
 
