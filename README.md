@@ -39,6 +39,8 @@ If MacOS shows a popup with that title and text like `Apple could not verify "bm
 
   4. Enter your login password, then click OK.
 
+This warning is expected, because we are a small and early software publisher. We plan to set up our Apple Developer processes as our software matures.
+
 ### npm
 
 Requires Node.js 14 or later. Installs the correct platform binary automatically.
