@@ -20,10 +20,24 @@ export PATH="$HOME/.local/bin:$PATH"
 
 ### Homebrew (macOS & Linux)
 
+Installing via `brew install`:
+
 ```sh
 brew tap Branchmore/homebrew-tap
 brew install bmor
 ```
+
+Installing via `Brewfile`:
+
+**Note:** `bmor` is a Homebrew Cask. 
+
+If you use a `Brewfile`, add it as:
+
+```sh
+cask "bmor"
+```
+
+rather than `brew "bmor"`.
 
 #### MacOS: troubleshooting `"bmor" Not Opened`
 
