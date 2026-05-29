@@ -60,7 +60,7 @@ This warning is expected, because Branchmore is early in our software developmen
 Requires Node.js 14 or later. Installs the correct platform binary automatically.
 
 ```sh
-npm install -g @branchmore/cli
+npm install -g @branchmore/cli@rc
 ```
 
 ## Usage
