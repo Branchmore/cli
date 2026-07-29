@@ -9,7 +9,7 @@
 The quickest way to install. Downloads the latest release, verifies the checksum, and installs the binary to `~/.local/bin` (or `/usr/local/bin` as a fallback).
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/branchmore/cli/master/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/branchmore/cli/main/install.sh | sh
 ```
 
 If `~/.local/bin` is not on your `PATH`, add this to your shell profile (`~/.bashrc`, `~/.zshrc`, etc.):

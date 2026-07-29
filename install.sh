@@ -1,6 +1,6 @@
 #!/bin/sh
 # Install bmor from GitHub Releases.
-# Usage: curl -fsSL https://raw.githubusercontent.com/branchmore/cli/master/install.sh | sh
+# Usage: curl -fsSL https://raw.githubusercontent.com/branchmore/cli/main/install.sh | sh
 set -e
 
 REPO="branchmore/cli"
